@@ -1,6 +1,5 @@
 # Ex.No:2 To create a HelloWorld Activity using all lifecycles methods to display messages.
 
-
 ## AIM:
 
 To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
@@ -131,7 +130,6 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
 ## OUTPUT
 
 **OnCreate**
@@ -145,15 +143,6 @@ public class MainActivity extends AppCompatActivity {
 
 **OnPause**
 <img width="1920" height="1200" alt="Screenshot 2026-11-01 193831" src="https://github.com/user-attachments/assets/3b05cff7-5490-42f4-ac85-d8d6ac73d5f6" />
-
-
-
-
-
-
-
-
-
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
